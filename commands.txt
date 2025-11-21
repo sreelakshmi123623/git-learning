@@ -6,3 +6,4 @@
 >git add -A [command for adding all untracked files to staging area]
 >git commit -m "commit msg" [adding stages files to localrepository]
 >git status[list all untracked and modified files]
+>git log [command for listing commit history]
