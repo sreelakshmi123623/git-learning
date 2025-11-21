@@ -3,4 +3,6 @@
 >git config --global user.name "username" [command for adding user name]
 >git config --global user.email "useremail@gmail.com" [command for adding user email]
 >git init [initializing git in present working directory]
+>git add -A [command for adding all untracked files to staging area]
+>git commit -m "commit msg" [adding stages files to localrepository]
 >git status[list all untracked and modified files]
