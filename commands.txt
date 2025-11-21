@@ -7,7 +7,7 @@
 >git commit -m "commit msg" [adding stages files to localrepository]
 >git status[list all untracked and modified files]
 >git log [command for listing commit history]
->git remote add name remote_path [remote name should be different for each repository here remote name is "origin"]
+>git remote add name remote_path [can use same remote name for different repository but if we need to push one folder to two separate repository then both the repositories remote name should be different]
 >git push origin master [for push from localrepositoryto remoterepository (master is the branch name)]
 >git remove -v[list all remotes(can set any name here it is eg;origin)]
 >git branch [list all branches (master)]
