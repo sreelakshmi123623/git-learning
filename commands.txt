@@ -7,3 +7,7 @@
 >git commit -m "commit msg" [adding stages files to localrepository]
 >git status[list all untracked and modified files]
 >git log [command for listing commit history]
+>git remote add name remote_path
+>git push origin master [for push from localrepositoryto remoterepository (master is the branch name)]
+>git remove -v[list all remotes]
+>git branch [list all branches]
