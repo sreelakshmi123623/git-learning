@@ -1,0 +1,6 @@
+>git --version [command for checking git version]
+>git config --list [git configuration list]
+>git config --global user.name "username" [command for adding user name]
+>git config --global user.email "useremail@gmail.com" [command for adding user email]
+>git init [initializing git in present working directory]
+>git status[list all untracked and modified files]
