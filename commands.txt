@@ -9,5 +9,5 @@
 >git log [command for listing commit history]
 >git remote add name remote_path [can use same remote name for different repository but if we need to push one folder to two separate repository then both the repositories remote name should be different]
 >git push origin master [for push from localrepositoryto remoterepository (master is the branch name)]
->git remove -v[list all remotes(can set any name here it is eg;origin)]
->git branch [list all branches (master)]
+>git remote -v[list all remotes(can set any name eg;origin)]
+>git branch [list branche name (master)]
